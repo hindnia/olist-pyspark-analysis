@@ -88,4 +88,4 @@ PySpark · Spark SQL · Python · Google Colab · Parquet · JSON
 
 ## Auteur
 
-**Ayoub Sghir** — Data Engineer
+**Hind Nia** — Data Engineer
