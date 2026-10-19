@@ -1,0 +1,26 @@
+# Identifiants Kaggle : ne jamais publier
+kaggle.json
+
+# Données brutes et archives téléchargées
+olist_data/
+*.zip
+
+# Sorties générées par Spark
+output/
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
